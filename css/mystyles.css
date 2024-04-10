@@ -1,0 +1,15 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.site-heading-lower{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mb-3{font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(206, 165, 104) !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}

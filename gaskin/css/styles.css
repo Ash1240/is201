@@ -1,0 +1,45 @@
+body{
+    background-color: azure;
+    color: rgb(1, 11, 37); /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: blueviolet;
+}
+img{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    /*centers the images*/
+    display: block;
+    margin: auto;
+    /*this centers just one image, make sure to put "class="imgcenter" in front of the image you want centered after the "img" part, (before ">") down below
+    .imgcenter{
+    display: block;
+    margin: auto;
+    }
+    */
+}
+.rizz{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(39, 45, 71);
+    font-size:larger
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+
